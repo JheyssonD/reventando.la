@@ -1,0 +1,152 @@
+[
+    {
+        "1": {
+            "plants": [
+                {
+                    "id": "1000729244",
+                    "Tipo": "Planta",
+                    "Nombre": "Magmato",
+                    "Rareza": "Rare",
+                    "Elemento": "Fire",
+                    "Produccion": {
+                        "HarvestTo": "2021-10-05T09: 35",
+                        "LE": 603,
+                        "Horas": 48
+                    }
+                },
+                {
+                    "id": "1012326881",
+                    "Tipo": "Plant",
+                    "Nombre": "Poison-shroom",
+                    "Rareza": "Poco común",
+                    "Elemento": "Parasite",
+                    "Produccion": {
+                        "HarvestTo": "2021-10-05T09: 35",
+                        "LE": 1418,
+                        "Horas": 168
+                    }
+                },
+                {
+                    "id": "1023611835",
+                    "Tipo": "Plant",
+                    "Nombre": "Magnifying Grass",
+                    "Rareza": "Common",
+                    "Elemento": "Water",
+                    "Produccion": {
+                        "HarvestTo": "2021-10-08T02: 09",
+                        "LE": 968,
+                        "Horas": 108
+                    }
+                },
+                {
+                    "id": "1022427079",
+                    "Tipo": "Plant",
+                    "Nombre": "Eel Plant",
+                    "Rareza": "Poco común",
+                    "Elemento": "Parasite",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 1420,
+                        "Horas": 168
+                    }
+                },
+                {
+                    "id": "2039326712",
+                    "Tipo": "Tree Mother",
+                    "Nombre": "Eyes of The Dark Forest",
+                    "Rareza": "Poco común",
+                    "Elemento": "Dark",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 2985,
+                        "Horas": 216
+                    }
+                },
+                {
+                    "id": "1030914182",
+                    "Tipo": "Plant",
+                    "Nombre": "Shadow-shroom",
+                    "Rareza": "Común",
+                    "Elemento": "Wind",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 791,
+                        "Horas": 72
+                    }
+                }
+            ]
+        },
+        "2": {
+            "plants": [
+                {
+                    "id": "1010912180",
+                    "Tipo": "Plant",
+                    "Nombre": "Shadow-shroom",
+                    "Rareza": "Común",
+                    "Elemento": "Wind",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 771,
+                        "Horas": 72
+                    }
+                },
+                {
+                    "id": "1030126478",
+                    "Tipo": "Plant",
+                    "Nombre": "Fire Cactus",
+                    "Rareza": "Poco común",
+                    "Elemento": "Fire",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 504,
+                        "Horas": 48
+                    }
+                },
+                {
+                    "id": "1033526576",
+                    "Tipo": "Plant",
+                    "Nombre": "Spiky Shell",
+                    "Rareza": "Poco común",
+                    "Elemento": "Dark",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 2150,
+                        "Horas": 216
+                    }
+                },
+                {
+                    "id": "",
+                    "Tipo": "Mother Tree",
+                    "Nombre": "Mother sunflower",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 850,
+                        "Horas": 144
+                    }
+                },
+                {
+                    "id": "",
+                    "Tipo": "Plant",
+                    "Nombre": "Sappling",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 250,
+                        "Horas": 72
+                    }
+                },
+                {
+                    "id": "",
+                    "Tipo": "Plant",
+                    "Nombre": "Sappling",
+                    "Produccion": {
+                        "HarvestTo": 0,
+                        "LE": 250,
+                        "Horas": 72
+                    }
+                }
+            ]
+        },
+        "PVUtoUSD": 3.14,
+        "LEtoPVU": 550
+    }
+]
